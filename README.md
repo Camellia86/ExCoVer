@@ -1,5 +1,5 @@
-# VLCID - Language-based Learning Training System
-
+# ExCoVer - VLCID - Language-based Learning Training System
+## VLCID - Language-based Learning Training System
 A language-based learning training system for fine-grained feature label generation using multimodal AI models.
 
 ## Features
